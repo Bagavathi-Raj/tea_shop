@@ -92,14 +92,3 @@ float:left;
 border:2px solid black;
 text-align:center;
 }
-
-@media screen and (max-width: 481px)
-{
-*{
-  position: relative;
-  width: 360px;
-  height: 640px;
-  margin: auto;
-  border:5px solid black;
-}
-}

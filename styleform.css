@@ -1,0 +1,94 @@
+html{
+margin:0px;
+padding:0px;
+}
+
+body{
+font-family:'Handlee',cursive;
+}
+
+.intro h1 span{
+background-color:rgba(32, 188, 213,0.8);
+border:3px dashed yellow;
+border-radius:25%;
+padding:10px;
+}
+
+.intro h3 span{
+border:3px dashed white ;
+border-radius:50px;
+background-color:rgba(0, 0, 0,0.5);
+color:yellow;
+padding:10px;
+}
+
+.intro{
+height:590px;
+background-image:url("images/kettle-coffee-tea.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+.tbutton{
+font-size: 20px;
+font-weight: 600;
+letter-spacing: 1px;
+display: inline-block;
+padding: 10px 32px;
+border:1px solid yellow;
+border-radius: 50%;
+margin: 0 20px 20px 0;
+color:white;
+}
+
+.intro a:active,a:visited,a:link{
+background-colour:none;
+text-decoration:none;
+}
+
+.intro a:hover {
+color:black;
+background-color:#20bcd5;
+text-decoration:none;
+}
+
+section{
+padding-top:10px;
+text-align:center;
+font-size:35px;
+font-weight:600;
+border:1px dashed black;
+background-color:rgba(32, 188, 213,0.2);
+color:black;
+}
+
+.tea{
+background-color:white;
+width:24.7%;
+height:400px;
+font-size:20px;
+float:left;
+border:2px solid black;
+text-align:center;
+}
+
+.trio{
+background-color:white;
+width:33%;
+height:400px;
+font-size:20px;
+float:left;
+border:2px solid black;
+text-align:center;
+}
+
+.splitm{
+background-color:white;
+width:19.7%;
+height:400px;
+font-size:20px;
+float:left;
+border:2px solid black;
+text-align:center;
+}
